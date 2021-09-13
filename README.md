@@ -1,4 +1,9 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://br.linkedin.com/in/graciele-selma-3b1520157)
+
+
 ### Hi there 👋
+
+
 
 <!--
 **GracieleSilva/gracielesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
