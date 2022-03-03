@@ -51,6 +51,8 @@ By the way I am open to new ideas, new projects, if you want to talk to me feel 
 
 [![LinkedIn Badge](https://img.shields.io/badge/GracieleSelma-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://br.linkedin.com/in/graciele-selma-3b1520157)
 
+![ gracielesilva Eating away my contributions](https://github.com/gracielesilva/gracielesilva/blob/output/github-contribution-grid-snake.svg) 
+
 <!--
 **GracieleSilva/gracielesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
