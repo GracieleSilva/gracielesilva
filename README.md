@@ -7,13 +7,13 @@ Hello, my name is Graciele Selma da Silva, I am a person curious about new techn
 
 ## 🔧 Technologies & Tools
 
-<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) -->
+<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)-->
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)
